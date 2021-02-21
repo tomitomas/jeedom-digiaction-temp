@@ -42,7 +42,7 @@ Vous retrouvez ici toute la configuration standard de votre équipement :
   
 # Actions  
 
-Cet onglet contient les principales configurations du widgets.  
+Cet onglet contient les principales configurations du widget.  
 C'est ici que vous définissez : 
 
 * les modes disponibles et leurs caractériques
@@ -55,17 +55,17 @@ C'est ici que vous définissez :
   <br/>(dans l'exemple : 1a, 1b, 1c => 3 blocs définis pour cet équipement)
 2. le nom du mode (cliquer dessus permet de le renommer)  
 3. personnalise le mode avec un icône  (si aucun icône n'est sélectionné, alors le nom du mode sera affiché sur le widget)
-4. défini un délai (en secondes) avant que le mode s'active (permet d'annuler l'action pendant un laps de temps)  
+4. définit un délai (en secondes) avant que le mode s'active (permet d'annuler l'action pendant un laps de temps)  
 5. demande un mot de passe afin de passer sur ce mode  
 6. ajoute un/des contrôle(s) à réaliser avant (l'ensemble des `Pré-check` utilisent l'opérateur 'ET')   
   6a. active/désactive le contrôle  
-  6b. ouvre un pop-up pour sélectionner une commande de type `info`  
+  6b. ouvre une pop-up pour sélectionner une commande de type `info`  
 7. ajoute une/des action(s) à réaliser pour passer dans le mode 
   7a. active/désactive l'action  
   7b. permet de choisir une commande
-  7c. ouvre un pop-up pour sélectionner une commande de type `action`   
-  7d. défini les options de la commande   
-8. défini le(s) mode(s) accessible(s) depuis le mode en cours 
+  7c. ouvre une pop-up pour sélectionner une commande de type `action`   
+  7d. définit les options de la commande   
+8. définit le(s) mode(s) accessible(s) depuis le mode en cours 
   <br/>(pour une alarme par exemple : depuis le mode 'Désactiver' on peut activer les modes 'Partiel' ou 'Total' ; par contre depuis le mode 'Total' on ne peut aller que vers 'Désactiver')
 
 <br/>
