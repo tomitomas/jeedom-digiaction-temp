@@ -57,7 +57,7 @@ C'est ici que vous définissez :
 3. personnalise le mode avec un icône  (si aucun icône n'est sélectionné, alors le nom du mode sera affiché sur le widget)
 4. définit un délai (en secondes) avant que le mode s'active (permet d'annuler l'action pendant un laps de temps)  
 5. demande un mot de passe afin de passer sur ce mode  
-6. ajoute un/des contrôle(s) à réaliser avant (l'ensemble des `Pré-check` utilisent l'opérateur 'ET')   
+6. ajoute un/des contrôle(s) à réaliser avant (l'ensemble des `Pré-check` utilise l'opérateur 'ET')   
   6a. active/désactive le contrôle  
   6b. ouvre une pop-up pour sélectionner une commande de type `info`  
 7. ajoute une/des action(s) à réaliser pour passer dans le mode 
