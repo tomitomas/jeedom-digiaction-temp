@@ -63,7 +63,7 @@ C'est ici que vous définissez :
 7. ajoute une/des action(s) à réaliser pour passer dans le mode 
   7a. active/désactive l'action  
   7b. permet de choisir une commande
-  7c. ouvre un pop-up pour sélectionner une commande de type `action`   
+  7c. ouvre une fenetre de type pop-up pour sélectionner une commande de type `action`   
   7d. défini les options de la commande   
 8. défini le(s) mode(s) accessible(s) depuis le mode en cours 
   <br/>(pour une alarme par exemple : depuis le mode 'Désactiver' on peut activer les modes 'Partiel' ou 'Total' ; par contre depuis le mode 'Total' on ne peut aller que vers 'Désactiver')
