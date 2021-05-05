@@ -41,12 +41,11 @@
 					<h2><a href="{{ '/fr_FR/index' | relative_url }}" id="documentationLink" class="customLink">Documentation</a></h2>
 				</div>
 				<div>
-					{% if site.branch == 'beta' %}
-					  <h2><a href="{{ '/fr_FR/changelog_beta' | relative_url }}" id="changelogLink" class="customLink">Changelog Beta</a></h2>
-					{% endif %}
-					{% if site.branch != 'beta' %}
-					  <h2><a href="{{ '/fr_FR/changelog' | relative_url }}" id="changelogLink" class="customLink">Changelog</a></h2>
-					{% endif %}
+					<h2><a href="{{ '/fr_FR/changelog_beta' | relative_url }}" id="changelogLink" class="customLink">Changelog</a></h2>
+				</div>
+
+				<div>
+					<h2><a href="{{ '/fr_FR/changelog_beta' | relative_url }}" id="changelogLink" class="customLink">Changelog Beta</a></h2>
 				</div>
 				<div>
 					<h2><a href="{{ '/fr_FR/todo' | relative_url }}" id="todoLink" class="customLink">ToDo</a></h2>
